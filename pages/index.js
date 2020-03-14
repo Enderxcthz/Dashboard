@@ -57,6 +57,7 @@ export default function Home() {
         </Toolbar>
       </AppBar>
       <Container maxWidth="md" component="main" className={classes.heroContent}>
+      <title>RoWifi</title>
         <Typography component="h1" variant="h2" align="center" color="textPrimary" gutterBottom>
           RoWifi
         </Typography>
