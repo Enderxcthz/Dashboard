@@ -37,7 +37,9 @@ export default function Home() {
 
   return (
     <div>
+    // ender ye was here ye
       <CssBaseline/>
+      <title>RoWifi</title> 
       <AppBar position="static" color="default" elevation={0} className={classes.appBar}>
         <Toolbar className={classes.toolBar}>
           <Typography variant="h6" color="inherit" noWrap className={classes.toolBarTitle}>
